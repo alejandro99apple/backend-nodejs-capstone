@@ -4,6 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+Mecatronico+..&hearts;++;Programador+de+Python;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
 </p>
 
-![VISION E INTELIGENCIA ARTIFICIAL](https://github.com/AprendeIngenia/AprendeIngenia/assets/85022752/68feb4bc-727b-42b6-932c-6929c8dea9b7)
+![VISION E INTELIGENCIA ARTIFICIAL](https://github.com/alejandro99apple/backend-nodejs-capstone/blob/main/landing%20page.png)
 
 
