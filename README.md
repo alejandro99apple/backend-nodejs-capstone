@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Second+Chance+..&hearts;++;Programador+de+Python;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Second+Chance;++;NodeJS+ - +Express+ + +MongoDB;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
 </p>
 <h3 align="center"><b>As part of the activities required to obtain the IBM Back-end JavaScript Developer Certification, I had to develop the backend of a web application with Node.js, Express and MongoDb</b></h3>
 <!--  -->
